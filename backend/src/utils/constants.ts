@@ -13,4 +13,13 @@ export const errorMessages = {
   ERROR_DELETING_USER: 'Error deleting user by email or username',
   USER_ALREADY_LOGGED_IN: 'User is already logged in',
   UNAUTHORIZED: 'User is not authorized to perform this action',
+
+  FAILED_TO_CREATE_RESTAURANT: 'Failed to create Restaurant',
+  RESTAURANT_NOT_FOUND: 'Restaurant not found',
+  RESTAURANT_ALREADY_EXISTS: 'Restaurant already exists',
+
+  NOT_FOUND_RESTAURANT_NAME: 'Error getting Restaurant by name',
+  NOT_FOUND_RESTAURANT_CITY: 'Error getting Restaurant by city',
+  NOT_FOUND_RESTAURANT_RATING: 'Error getting Restaurant by rating',
+  ERROR_DELETING_RESTAURANT: 'Error deleting Restaurant by name',
 };
