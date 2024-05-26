@@ -1,0 +1,1788 @@
+[
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d23885306-Reviews-Loullie-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 23885306,
+    "name": "Loullie",
+    "averageRating": 5,
+    "userReviewCount": 334,
+    "currentOpenStatusCategory": "OPEN",
+    "currentOpenStatusText": "Open Now",
+    "priceTag": "$$ - $$$",
+    "hasMenu": true,
+    "menuUrl": "https://assets.website-files.com/60a3759d17f268903cd18a82/64477431ced7889489438eb0_MenuA3_Web.pdf",
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": null,
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": false,
+    "establishmentTypeAndCuisineTags": [
+      "Bar",
+      "Seafood",
+      "Mediterranean",
+      "Greek",
+      "Pub",
+      "Israeli",
+      "Medicinal foods",
+      "Dining bars"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0e/41/fc/brunch-tan.jpg?w=6900&h=4600&s=1",
+    "heroImgRawHeight": 4668,
+    "heroImgRawWidth": 6998,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0e/41/fc/brunch-tan.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 4668,
+          "maxWidth": 6998,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0e/41/fc/brunch-tan.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "￹Beer￻",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d23885306-r894590418-Loullie-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "Loullie",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d23885306-r904983153-Loullie-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d15688267-Reviews-Emesh-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 15688267,
+    "name": "Emesh",
+    "averageRating": 5,
+    "userReviewCount": 685,
+    "currentOpenStatusCategory": "OPEN",
+    "currentOpenStatusText": "Open Now",
+    "priceTag": "$$ - $$$",
+    "hasMenu": true,
+    "menuUrl": "https://www.emeshtlv.co.il/menus/?language=en",
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": null,
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": true,
+    "establishmentTypeAndCuisineTags": [
+      "Bar",
+      "International",
+      "Pub",
+      "Israeli"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/3c/81/5c/garden.jpg?w=5300&h=3600&s=1",
+    "heroImgRawHeight": 3648,
+    "heroImgRawWidth": 5370,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/3c/81/5c/garden.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 3648,
+          "maxWidth": 5370,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/3c/81/5c/garden.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "￹Dance￻",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d15688267-r894590184-Emesh-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "we sat on the bar and enjoyed every...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d15688267-r783849408-Emesh-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d24045222-Reviews-Cappella-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 24045222,
+    "name": "Cappella",
+    "averageRating": 5,
+    "userReviewCount": 218,
+    "currentOpenStatusCategory": "OPEN",
+    "currentOpenStatusText": "Open Now",
+    "priceTag": "$$ - $$$",
+    "hasMenu": true,
+    "menuUrl": "https://www.cappellatlv.com/",
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": null,
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": false,
+    "establishmentTypeAndCuisineTags": [
+      "Bar",
+      "Asian",
+      "Pub",
+      "Gastropub",
+      "Israeli"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/72/48/c6/we-ve-prepared-meticulously.jpg?w=4600&h=3100&s=1",
+    "heroImgRawHeight": 3107,
+    "heroImgRawWidth": 4660,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/72/48/c6/we-ve-prepared-meticulously.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 3107,
+          "maxWidth": 4660,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/72/48/c6/we-ve-prepared-meticulously.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "A ￹great bar￻",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d24045222-r900640872-Cappella-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "cappella ",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d24045222-r904402930-Cappella-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d12558176-Reviews-Dede_bar-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 12558176,
+    "name": "Dede bar",
+    "averageRating": 5,
+    "userReviewCount": 182,
+    "currentOpenStatusCategory": "OPEN",
+    "currentOpenStatusText": "Open Now",
+    "priceTag": "$",
+    "hasMenu": true,
+    "menuUrl": "https://www.facebook.com/dedefood/menu",
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": {
+      "year": 2023,
+      "awardType": "COE"
+    },
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": true,
+    "establishmentTypeAndCuisineTags": [
+      "Bar",
+      "Grill",
+      "Israeli"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/4d/db/8e/caption.jpg?w=1000&h=1000&s=1",
+    "heroImgRawHeight": 1077,
+    "heroImgRawWidth": 1077,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/4d/db/8e/caption.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 1077,
+          "maxWidth": 1077,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/4d/db/8e/caption.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "Yummy ￹burger￻",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d12558176-r918106888-Dede_bar-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "If you want to grab coffee, DEDE If you...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d12558176-r786904665-Dede_bar-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d5041937-Reviews-Bicicletta-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 5041937,
+    "name": "Bicicletta",
+    "averageRating": 4.5,
+    "userReviewCount": 1153,
+    "currentOpenStatusCategory": "OPEN",
+    "currentOpenStatusText": "Open Now",
+    "priceTag": "$$ - $$$",
+    "hasMenu": true,
+    "menuUrl": "https://biciclettatlv.co.il/",
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": {
+      "year": 2023,
+      "awardType": "COE"
+    },
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": false,
+    "establishmentTypeAndCuisineTags": [
+      "Bar",
+      "Mediterranean",
+      "Healthy",
+      "Gastropub",
+      "Israeli"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/ab/5d/63/summer-nights-in-our.jpg?w=2000&h=1300&s=1",
+    "heroImgRawHeight": 1365,
+    "heroImgRawWidth": 2048,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/ab/5d/63/summer-nights-in-our.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 1365,
+          "maxWidth": 2048,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/ab/5d/63/summer-nights-in-our.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "... with vine leaves and pine nuts, ￹calamari￻ with cashews and fresh herbs on ...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d5041937-r877798999-Bicicletta-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "Some are smaller, like little ￹Israeli￻ t...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d5041937-r892833118-Bicicletta-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d6611603-Reviews-Onza-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 6611603,
+    "name": "Onza",
+    "averageRating": 4.5,
+    "userReviewCount": 2761,
+    "currentOpenStatusCategory": "OPEN",
+    "currentOpenStatusText": "Open Now",
+    "priceTag": "$$ - $$$",
+    "hasMenu": true,
+    "menuUrl": "https://www.onza.co.il/our-menu/",
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": {
+      "year": 2023,
+      "awardType": "COE"
+    },
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": false,
+    "establishmentTypeAndCuisineTags": [
+      "Bar",
+      "Mediterranean",
+      "Fusion",
+      "Gastropub",
+      "Middle Eastern",
+      "Israeli"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/daodao/photo-o/17/75/e8/4b/photo5jpg.jpg?w=2000&h=1500&s=1",
+    "heroImgRawHeight": 1536,
+    "heroImgRawWidth": 2048,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/daodao/photo-o/17/75/e8/4b/photo5jpg.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 1536,
+          "maxWidth": 2048,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/daodao/photo-o/17/75/e8/4b/photo5jpg.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "The service from the ￹bar staff￻ was very quick and very friendly.",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d6611603-r869261847-Onza-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "The restaurant situated in Jaffa is warm...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d6611603-r732270951-Onza-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d4071520-Reviews-Night_Kitchen_TLV-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 4071520,
+    "name": "Night Kitchen TLV",
+    "averageRating": 4.5,
+    "userReviewCount": 1903,
+    "currentOpenStatusCategory": "OPEN",
+    "currentOpenStatusText": "Open Now",
+    "priceTag": "$$ - $$$",
+    "hasMenu": true,
+    "menuUrl": "https://www.ontopo.co.il/en/nightkitchen",
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": {
+      "year": 2023,
+      "awardType": "COE"
+    },
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": false,
+    "establishmentTypeAndCuisineTags": [
+      "Bar",
+      "Mediterranean",
+      "Contemporary",
+      "Middle Eastern",
+      "Israeli"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/b1/c9/2b/night-kitchen.jpg?w=900&h=600&s=1",
+    "heroImgRawHeight": 639,
+    "heroImgRawWidth": 960,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/b1/c9/2b/night-kitchen.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 639,
+          "maxWidth": 960,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/b1/c9/2b/night-kitchen.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "Fish ￹shawarma￻ and tomato carpaccio both fantastic.",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d4071520-r879470689-Night_Kitchen_TLV-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "We had the best time on the ￹bar￻, happy...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d4071520-r898227824-Night_Kitchen_TLV-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d6484806-Reviews-Nini_Hachi-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 6484806,
+    "name": "Nini Hachi",
+    "averageRating": 4.5,
+    "userReviewCount": 713,
+    "currentOpenStatusCategory": "OPEN",
+    "currentOpenStatusText": "Open Now",
+    "priceTag": "$$ - $$$",
+    "hasMenu": true,
+    "menuUrl": "https://ninihachi.m-secured.co.il/he_IL/branches/6366/order-online#menu/now",
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": {
+      "year": 2023,
+      "awardType": "COE"
+    },
+    "isLocalChefItem": false,
+    "isPremium": true,
+    "isStoryboardPublished": true,
+    "establishmentTypeAndCuisineTags": [
+      "Japanese",
+      "Sushi",
+      "Asian"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/f9/4a/d3/photo0jpg.jpg?w=800&h=600&s=1",
+    "heroImgRawHeight": 640,
+    "heroImgRawWidth": 852,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/f9/4a/d3/photo0jpg.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 640,
+          "maxWidth": 852,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/f9/4a/d3/photo0jpg.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "An excellent ￹kosher￻ sushi restaurant",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d6484806-r917968443-Nini_Hachi-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "... issues with ￹sashimi￻, and always cam...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d6484806-r918096066-Nini_Hachi-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d7832182-Reviews-Bar_Ochel-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 7832182,
+    "name": "Bar Ochel",
+    "averageRating": 4.5,
+    "userReviewCount": 391,
+    "currentOpenStatusCategory": "CLOSING",
+    "currentOpenStatusText": "Closes in 4 min",
+    "priceTag": "$",
+    "hasMenu": false,
+    "menuUrl": null,
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": null,
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": false,
+    "establishmentTypeAndCuisineTags": [
+      "Bar",
+      "Mediterranean",
+      "Middle Eastern",
+      "Israeli"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/11/a7/6c/the-new-place-next-to.jpg?w=1900&h=1000&s=1",
+    "heroImgRawHeight": 1080,
+    "heroImgRawWidth": 1920,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/11/a7/6c/the-new-place-next-to.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 1080,
+          "maxWidth": 1920,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/11/a7/6c/the-new-place-next-to.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "Super atmosphere and delicious food! The staff is very nice and you can relax...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d7832182-r708478853-Bar_Ochel-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "Fantastic ",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d7832182-r884005561-Bar_Ochel-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d4427872-Reviews-BeerBazaar-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 4427872,
+    "name": "BeerBazaar",
+    "averageRating": 4.5,
+    "userReviewCount": 286,
+    "currentOpenStatusCategory": "OPEN",
+    "currentOpenStatusText": "Open Now",
+    "priceTag": "$",
+    "hasMenu": true,
+    "menuUrl": "https://www.facebook.com/BeerBazaarIL/photos/pcb.4934584406663608/4936606196461429/",
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": null,
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": false,
+    "establishmentTypeAndCuisineTags": [
+      "Bar",
+      "Mediterranean",
+      "Pub",
+      "Israeli",
+      "Beer restaurants"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/a7/9f/39/beerbazaar.jpg?w=1600&h=1200&s=1",
+    "heroImgRawHeight": 1200,
+    "heroImgRawWidth": 1600,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/a7/9f/39/beerbazaar.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 1200,
+          "maxWidth": 1600,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/a7/9f/39/beerbazaar.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "The outdoor seating on a quiet street close to the Carmel market make for a...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d4427872-r674713977-BeerBazaar-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "Great Micro Brews!",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d4427872-r946391348-BeerBazaar-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d5267510-Reviews-Frishman_Falafel_Frishman_Sabich-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 5267510,
+    "name": "Frishman Falafel & Frishman Sabich",
+    "averageRating": 4.5,
+    "userReviewCount": 553,
+    "currentOpenStatusCategory": "CLOSED",
+    "currentOpenStatusText": "Closed Now",
+    "priceTag": "$",
+    "hasMenu": false,
+    "menuUrl": null,
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": null,
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": false,
+    "establishmentTypeAndCuisineTags": [
+      "Fast Food",
+      "Mediterranean",
+      "Middle Eastern",
+      "Israeli"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/fe/26/31/frishman-falafel-frishman.jpg?w=2000&h=1100&s=1",
+    "heroImgRawHeight": 1127,
+    "heroImgRawWidth": 2000,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/fe/26/31/frishman-falafel-frishman.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 1127,
+          "maxWidth": 2000,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/fe/26/31/frishman-falafel-frishman.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "Best ￹Sabich￻ I ever had",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d5267510-r916538204-Frishman_Falafel_Frishman_Sabich-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "My last night in Tel Aviv, and Sabich...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d5267510-r751130024-Frishman_Falafel_Frishman_Sabich-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d8616273-Reviews-West_Side-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 8616273,
+    "name": "West Side",
+    "averageRating": 4.5,
+    "userReviewCount": 532,
+    "currentOpenStatusCategory": "OPEN",
+    "currentOpenStatusText": "Open Now",
+    "priceTag": "$$$$",
+    "hasMenu": true,
+    "menuUrl": "http://westside.rest.co.il/תפריט?menuId=980697",
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": null,
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": false,
+    "establishmentTypeAndCuisineTags": [
+      "International",
+      "Mediterranean",
+      "Israeli"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/c4/ec/3b/west-side.jpg?w=1200&h=900&s=1",
+    "heroImgRawHeight": 962,
+    "heroImgRawWidth": 1242,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/c4/ec/3b/west-side.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 962,
+          "maxWidth": 1242,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/c4/ec/3b/west-side.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "The quality of service and food was above and beyond. Will definitely be back.",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d8616273-r788039386-West_Side-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "We are ￹kosher￻ diners and over the years...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d8616273-r915857548-West_Side-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d4102657-Reviews-Rubi_Bar_TLV-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 4102657,
+    "name": "Rubi Bar TLV",
+    "averageRating": 5,
+    "userReviewCount": 120,
+    "currentOpenStatusCategory": null,
+    "currentOpenStatusText": null,
+    "priceTag": "$$ - $$$",
+    "hasMenu": false,
+    "menuUrl": null,
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": {
+      "year": 2023,
+      "awardType": "COE"
+    },
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": true,
+    "establishmentTypeAndCuisineTags": [
+      "Bar",
+      "Fast Food",
+      "Pub",
+      "Israeli"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/11/6d/c4/rubi-bar.jpg?w=2000&h=1300&s=1",
+    "heroImgRawHeight": 1365,
+    "heroImgRawWidth": 2048,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/11/6d/c4/rubi-bar.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 1365,
+          "maxWidth": 2048,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/11/6d/c4/rubi-bar.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "all the managers and bartenders were really polite, the music is really good...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d4102657-r707843182-Rubi_Bar_TLV-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "My last night in rubi bar",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d4102657-r858425555-Rubi_Bar_TLV-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g297749-d8386278-Reviews-Abu_Hassan_Restaurant-Jaffa_Tel_Aviv_Tel_Aviv_District",
+    "locationId": 8386278,
+    "name": "Abu Hassan Restaurant",
+    "averageRating": 4.5,
+    "userReviewCount": 340,
+    "currentOpenStatusCategory": "CLOSED",
+    "currentOpenStatusText": "Closed Now",
+    "priceTag": "$",
+    "hasMenu": false,
+    "menuUrl": null,
+    "isDifferentGeo": false,
+    "parentGeoName": "Jaffa",
+    "distanceTo": null,
+    "awardInfo": null,
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": false,
+    "establishmentTypeAndCuisineTags": [
+      "Fast Food",
+      "Mediterranean",
+      "Middle Eastern",
+      "Israeli"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/16/ef/b1/img-20190113-133104-largejpg.jpg?w=900&h=600&s=1",
+    "heroImgRawHeight": 691,
+    "heroImgRawWidth": 921,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/16/ef/b1/img-20190113-133104-largejpg.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 691,
+          "maxWidth": 921,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/16/ef/b1/img-20190113-133104-largejpg.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "A friend sent us a delivery of ful medames, msabbahah, hummus, falafel, chips...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297749-d8386278-r776942223-Abu_Hassan_Restaurant-Jaffa_Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "The best ￹hummus￻ I have ever had!!",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297749-d8386278-r936828831-Abu_Hassan_Restaurant-Jaffa_Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d2178635-Reviews-Falafel_Hakosem-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 2178635,
+    "name": "Falafel Hakosem",
+    "averageRating": 4.5,
+    "userReviewCount": 1037,
+    "currentOpenStatusCategory": "OPEN",
+    "currentOpenStatusText": "Open Now",
+    "priceTag": "$",
+    "hasMenu": false,
+    "menuUrl": null,
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": {
+      "year": 2023,
+      "awardType": "COE"
+    },
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": false,
+    "establishmentTypeAndCuisineTags": [
+      "Fast Food",
+      "Mediterranean",
+      "Middle Eastern",
+      "Israeli"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/c8/a7/4e/photo5jpg.jpg?w=1100&h=800&s=1",
+    "heroImgRawHeight": 832,
+    "heroImgRawWidth": 1125,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/c8/a7/4e/photo5jpg.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 832,
+          "maxWidth": 1125,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/c8/a7/4e/photo5jpg.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "The food was incredible - the falafel were the best I have ever had and we...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d2178635-r735528057-Falafel_Hakosem-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "Fantastic schwarma on ￹laffa￻ (and great...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d2178635-r891533929-Falafel_Hakosem-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g297747-d1163756-Reviews-Bistro_56-Herzliya_Tel_Aviv_District",
+    "locationId": 1163756,
+    "name": "Bistro 56",
+    "averageRating": 4.5,
+    "userReviewCount": 798,
+    "currentOpenStatusCategory": "OPEN",
+    "currentOpenStatusText": "Open Now",
+    "priceTag": "$$ - $$$",
+    "hasMenu": true,
+    "menuUrl": "https://bistro56.co.il/wp-content/uploads/2023/02/Menu-EN-2023.pdf",
+    "isDifferentGeo": false,
+    "parentGeoName": "Herzliya",
+    "distanceTo": null,
+    "awardInfo": {
+      "year": 2023,
+      "awardType": "COE"
+    },
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": true,
+    "establishmentTypeAndCuisineTags": [
+      "Steakhouse",
+      "International",
+      "Mediterranean",
+      "European",
+      "Grill",
+      "Israeli"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/9a/5c/76/the-king-of-steaks-usda.jpg?w=2000&h=1300&s=1",
+    "heroImgRawHeight": 1365,
+    "heroImgRawWidth": 2048,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/9a/5c/76/the-king-of-steaks-usda.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 1365,
+          "maxWidth": 2048,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/9a/5c/76/the-king-of-steaks-usda.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "Great ￹Meat Restaurant￻",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297747-d1163756-r875219210-Bistro_56-Herzliya_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "Amazing",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297747-d1163756-r908094418-Bistro_56-Herzliya_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d4814780-Reviews-Shakshukia-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 4814780,
+    "name": "Shakshukia",
+    "averageRating": 4.5,
+    "userReviewCount": 880,
+    "currentOpenStatusCategory": "OPEN",
+    "currentOpenStatusText": "Open Now",
+    "priceTag": "$",
+    "hasMenu": false,
+    "menuUrl": null,
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": {
+      "year": 2023,
+      "awardType": "COE"
+    },
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": false,
+    "establishmentTypeAndCuisineTags": [
+      "Mediterranean",
+      "Middle Eastern",
+      "Israeli"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/c3/58/5b/photo0jpg.jpg?w=2000&h=1500&s=1",
+    "heroImgRawHeight": 1536,
+    "heroImgRawWidth": 2048,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/c3/58/5b/photo0jpg.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 1536,
+          "maxWidth": 2048,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/c3/58/5b/photo0jpg.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "Our visit was amazing! Good service and I eat the best Shakshuka I ever had...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d4814780-r788044340-Shakshukia-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "Always great",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d4814780-r884378754-Shakshukia-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d803562-Reviews-Abu_Hasan_Ali_Karavan-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 803562,
+    "name": "Abu Hasan / Ali Karavan",
+    "averageRating": 4.5,
+    "userReviewCount": 704,
+    "currentOpenStatusCategory": null,
+    "currentOpenStatusText": null,
+    "priceTag": "$",
+    "hasMenu": false,
+    "menuUrl": null,
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": null,
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": false,
+    "establishmentTypeAndCuisineTags": [
+      "Fast Food",
+      "Mediterranean",
+      "Healthy",
+      "Middle Eastern",
+      "Israeli"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/f5/52/d2/photo0jpg.jpg?w=2000&h=1500&s=1",
+    "heroImgRawHeight": 1536,
+    "heroImgRawWidth": 2048,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/f5/52/d2/photo0jpg.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 1536,
+          "maxWidth": 2048,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/f5/52/d2/photo0jpg.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "The best hummus I ever ate!!! Fresh! Tasty! Clean! It’s not easy to get there...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d803562-r801655669-Abu_Hasan_Ali_Karavan-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "... Hummus is ￹nice￻ if you're 1 or 2 peo...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d803562-r885403172-Abu_Hasan_Ali_Karavan-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d26128333-Reviews-Cichukai-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 26128333,
+    "name": "Cichukai",
+    "averageRating": 5,
+    "userReviewCount": 61,
+    "currentOpenStatusCategory": "OPEN",
+    "currentOpenStatusText": "Open Now",
+    "priceTag": "$$ - $$$",
+    "hasMenu": true,
+    "menuUrl": "https://www.cichukai.co.il/en/menu/",
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": null,
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": false,
+    "establishmentTypeAndCuisineTags": [
+      "Peruvian",
+      "Mediterranean",
+      "Asian",
+      "Japanese Fusion"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/f5/07/1c/welcome-to-our-world.jpg?w=1600&h=800&s=1",
+    "heroImgRawHeight": 892,
+    "heroImgRawWidth": 1600,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/f5/07/1c/welcome-to-our-world.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 892,
+          "maxWidth": 1600,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/f5/07/1c/welcome-to-our-world.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "A menu full of exotic options from ￹ceviche￻ to sushi.",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d26128333-r912441419-Cichukai-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "New and very special place in ￹Jaffa￻",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d26128333-r897641199-Cichukai-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d2230243-Reviews-Hakovshim_Bistro-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 2230243,
+    "name": "Hakovshim Bistro",
+    "averageRating": 4.5,
+    "userReviewCount": 451,
+    "currentOpenStatusCategory": null,
+    "currentOpenStatusText": null,
+    "priceTag": "$$ - $$$",
+    "hasMenu": false,
+    "menuUrl": null,
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": null,
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": false,
+    "establishmentTypeAndCuisineTags": [
+      "Mediterranean",
+      "Middle Eastern",
+      "Israeli"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/0d/5b/b1/kovshim-bistro.jpg?w=2000&h=1300&s=1",
+    "heroImgRawHeight": 1333,
+    "heroImgRawWidth": 2000,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/0d/5b/b1/kovshim-bistro.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 1333,
+          "maxWidth": 2000,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/0d/5b/b1/kovshim-bistro.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "... cabbage stuffed with ground lamb accompanied with red spicy ￹Harissa￻ sauce.",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d2230243-r879776047-Hakovshim_Bistro-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "The food here is simply amazing. I wanted...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d2230243-r746743187-Hakovshim_Bistro-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d8504784-Reviews-Mashya-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 8504784,
+    "name": "Mashya",
+    "averageRating": 4.5,
+    "userReviewCount": 1450,
+    "currentOpenStatusCategory": "OPEN",
+    "currentOpenStatusText": "Open Now",
+    "priceTag": "$$$$",
+    "hasMenu": true,
+    "menuUrl": "http://www.mashya.co.il/our-menu/",
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": {
+      "year": 2023,
+      "awardType": "COE"
+    },
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": false,
+    "establishmentTypeAndCuisineTags": [
+      "Mediterranean",
+      "European",
+      "Middle Eastern",
+      "Israeli"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/1e/55/f1/caption.jpg?w=1200&h=700&s=1",
+    "heroImgRawHeight": 720,
+    "heroImgRawWidth": 1280,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/1e/55/f1/caption.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 720,
+          "maxWidth": 1280,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/1e/55/f1/caption.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "The service was top notch and the food is so good and interesting, you can see...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d8504784-r792911038-Mashya-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "￹Amazing breakfast￻!",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d8504784-r852751641-Mashya-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d7365377-Reviews-Anastasia_Cafe-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 7365377,
+    "name": "Anastasia Cafe",
+    "averageRating": 4.5,
+    "userReviewCount": 426,
+    "currentOpenStatusCategory": "OPEN",
+    "currentOpenStatusText": "Open Now",
+    "priceTag": "$$ - $$$",
+    "hasMenu": false,
+    "menuUrl": null,
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": null,
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": false,
+    "establishmentTypeAndCuisineTags": [
+      "Cafe",
+      "Healthy",
+      "Israeli"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/0d/b2/8c/photo0jpg.jpg?w=2000&h=1500&s=1",
+    "heroImgRawHeight": 1536,
+    "heroImgRawWidth": 2048,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/0d/b2/8c/photo0jpg.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 1536,
+          "maxWidth": 2048,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/0d/b2/8c/photo0jpg.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "The place is pretty full, especially on Fridays mornings, but the host will...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d7365377-r779961674-Anastasia_Cafe-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "We shared ￹cheesecake￻ highly recommended...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d7365377-r890492373-Anastasia_Cafe-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g2561658-d3604818-Reviews-Fish-Rishon_Lezion_Central_District",
+    "locationId": 3604818,
+    "name": "Fish",
+    "averageRating": 4.5,
+    "userReviewCount": 427,
+    "currentOpenStatusCategory": null,
+    "currentOpenStatusText": null,
+    "priceTag": "$$ - $$$",
+    "hasMenu": true,
+    "menuUrl": "https://thefish.co.il/menus/",
+    "isDifferentGeo": false,
+    "parentGeoName": "Rishon Lezion",
+    "distanceTo": null,
+    "awardInfo": null,
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": false,
+    "establishmentTypeAndCuisineTags": [
+      "Seafood",
+      "European"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/98/40/df/main-dish.jpg?w=3000&h=2600&s=1",
+    "heroImgRawHeight": 2605,
+    "heroImgRawWidth": 3083,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/98/40/df/main-dish.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 2605,
+          "maxWidth": 3083,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/98/40/df/main-dish.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "We started with Ikra (fish egg ￹salad￻) and eggplant ￹salad￻ and For Main course...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g2561658-d3604818-r891459958-Fish-Rishon_Lezion_Central_District.html"
+        },
+        {
+          "reviewText": "We have had a lot of great meals in...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g2561658-d3604818-r802691731-Fish-Rishon_Lezion_Central_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d8822362-Reviews-Balinjera-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 8822362,
+    "name": "Balinjera",
+    "averageRating": 4.5,
+    "userReviewCount": 174,
+    "currentOpenStatusCategory": "CLOSED",
+    "currentOpenStatusText": "Closed Now",
+    "priceTag": "$$ - $$$",
+    "hasMenu": false,
+    "menuUrl": null,
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": null,
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": false,
+    "establishmentTypeAndCuisineTags": [
+      "Ethiopian"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/5c/f6/33/beautiful-meal-at-an.jpg?w=2000&h=1500&s=1",
+    "heroImgRawHeight": 1536,
+    "heroImgRawWidth": 2048,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/5c/f6/33/beautiful-meal-at-an.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 1536,
+          "maxWidth": 2048,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/5c/f6/33/beautiful-meal-at-an.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "Venturing Out for ￹Ethiopian￻ in Tel Aviv",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d8822362-r900660105-Balinjera-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "Very popular restaurant serving authentic...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d8822362-r744494617-Balinjera-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d1088450-Reviews-Ha_Pizza-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 1088450,
+    "name": "Ha'Pizza",
+    "averageRating": 4.5,
+    "userReviewCount": 496,
+    "currentOpenStatusCategory": null,
+    "currentOpenStatusText": null,
+    "priceTag": "$$ - $$$",
+    "hasMenu": false,
+    "menuUrl": null,
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": null,
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": false,
+    "establishmentTypeAndCuisineTags": [
+      "Italian",
+      "Pizza",
+      "Mediterranean"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/6b/44/7a/img-20161019-131057-largejpg.jpg?w=3900&h=2900&s=1",
+    "heroImgRawHeight": 2976,
+    "heroImgRawWidth": 3968,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/6b/44/7a/img-20161019-131057-largejpg.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 2976,
+          "maxWidth": 3968,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/6b/44/7a/img-20161019-131057-largejpg.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "HaPizza is the perfect place to enjoy wonderful pizzas and ￹pasta￻ in the middl...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d1088450-r904480434-Ha_Pizza-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "Pizza here are very good. Home made...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d1088450-r793497695-Ha_Pizza-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d3292775-Reviews-SABICH_TSERNIKOVSKI-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 3292775,
+    "name": "SABICH TSERNIKOVSKI",
+    "averageRating": 5,
+    "userReviewCount": 164,
+    "currentOpenStatusCategory": "CLOSED",
+    "currentOpenStatusText": "Closed Now",
+    "priceTag": "$",
+    "hasMenu": false,
+    "menuUrl": null,
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": null,
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": false,
+    "establishmentTypeAndCuisineTags": [
+      "Fast Food",
+      "Mediterranean",
+      "Middle Eastern",
+      "Israeli"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/4b/4d/38/photo4jpg.jpg?w=2000&h=1500&s=1",
+    "heroImgRawHeight": 1536,
+    "heroImgRawWidth": 2048,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/4b/4d/38/photo4jpg.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 1536,
+          "maxWidth": 2048,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/4b/4d/38/photo4jpg.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "Really delicious Sabich. highly recommend to try it! It's prepared with a lot...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d3292775-r746998021-SABICH_TSERNIKOVSKI-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "The best ￹sabich￻ in Israel",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d3292775-r915170548-SABICH_TSERNIKOVSKI-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d23330771-Reviews-Villa_Mare_TLV-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 23330771,
+    "name": "Villa Mare TLV",
+    "averageRating": 4.5,
+    "userReviewCount": 159,
+    "currentOpenStatusCategory": "OPEN",
+    "currentOpenStatusText": "Open Now",
+    "priceTag": "$$ - $$$",
+    "hasMenu": true,
+    "menuUrl": "https://villamaretlv.co.il/%25d7%2590%25d7%25a8%25d7%2595%25d7%2597%25d7%25aa-%25d7%25a2%25d7%25a8%25d7%2591-%25d7%2591%25d7%25aa%25d7%259c-%25d7%2590%25d7%2591%25d7%2599%25d7%2591",
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": {
+      "year": 2023,
+      "awardType": "COE"
+    },
+    "isLocalChefItem": false,
+    "isPremium": true,
+    "isStoryboardPublished": true,
+    "establishmentTypeAndCuisineTags": [
+      "Italian",
+      "Seafood",
+      "Mediterranean",
+      "Grill",
+      "Eastern European"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": {
+        "canProvideTimeslots": null,
+        "canLockTimeslots": null,
+        "timeSlots": [],
+        "providerId": "30000",
+        "provider": "Restaurant Special Offer",
+        "providerDisplayName": "Restaurant Special Offer",
+        "buttonText": null,
+        "offerURL": "cnlqX1JFU1RBVVJBTlRfRElTQ09VTlRfNWxm",
+        "logoUrl": null,
+        "trackingEvent": null
+      }
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/63/b5/d4/caption.jpg?w=1600&h=1000&s=1",
+    "heroImgRawHeight": 1066,
+    "heroImgRawWidth": 1600,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/63/b5/d4/caption.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 1066,
+          "maxWidth": 1600,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/63/b5/d4/caption.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "￹Seafood￻ by the sea",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d23330771-r915820427-Villa_Mare_TLV-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "￹Steak￻ was superb, but also fascinating...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d23330771-r921130736-Villa_Mare_TLV-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d2410151-Reviews-Hatraklin_Bistro_Meat_Wine-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 2410151,
+    "name": "Hatraklin Bistro Meat & Wine",
+    "averageRating": 4.5,
+    "userReviewCount": 2091,
+    "currentOpenStatusCategory": "OPEN",
+    "currentOpenStatusText": "Open Now",
+    "priceTag": "$$$$",
+    "hasMenu": true,
+    "menuUrl": "https://hatraklin.co.il/en/english-menu/#mr-tab-0",
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": null,
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": false,
+    "establishmentTypeAndCuisineTags": [
+      "Steakhouse",
+      "European",
+      "Israeli"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/68/37/75/hatraklin-bistro-meat.jpg?w=2000&h=1300&s=1",
+    "heroImgRawHeight": 1342,
+    "heroImgRawWidth": 2000,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/68/37/75/hatraklin-bistro-meat.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 1342,
+          "maxWidth": 2000,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/68/37/75/hatraklin-bistro-meat.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "The music and the atmosphere are the best you can ask for. We recommend this...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d2410151-r784852124-Hatraklin_Bistro_Meat_Wine-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "Very ￹nice￻ and special evening",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d2410151-r857289279-Hatraklin_Bistro_Meat_Wine-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d2326855-Reviews-La_Shuk-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 2326855,
+    "name": "La Shuk",
+    "averageRating": 4.5,
+    "userReviewCount": 1026,
+    "currentOpenStatusCategory": "OPEN",
+    "currentOpenStatusText": "Open Now",
+    "priceTag": "$$ - $$$",
+    "hasMenu": false,
+    "menuUrl": null,
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": {
+      "year": 2023,
+      "awardType": "COE"
+    },
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": false,
+    "establishmentTypeAndCuisineTags": [
+      "Seafood",
+      "Mediterranean",
+      "Middle Eastern",
+      "Israeli",
+      "Arabic"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/52/0a/a8/la-shuk.jpg?w=800&h=500&s=1",
+    "heroImgRawHeight": 546,
+    "heroImgRawWidth": 819,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/52/0a/a8/la-shuk.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 546,
+          "maxWidth": 819,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/52/0a/a8/la-shuk.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "The food is delicious, the service is wonderful ( very welcoming and everyone...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d2326855-r731202470-La_Shuk-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "Good recommendation",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d2326855-r916392370-La_Shuk-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  },
+  {
+    "restaurantsId": "Restaurant_Review-g293984-d10027760-Reviews-OCD_Restaurant-Tel_Aviv_Tel_Aviv_District",
+    "locationId": 10027760,
+    "name": "OCD Restaurant",
+    "averageRating": 4.5,
+    "userReviewCount": 241,
+    "currentOpenStatusCategory": "OPEN",
+    "currentOpenStatusText": "Open Now",
+    "priceTag": "$$$$",
+    "hasMenu": false,
+    "menuUrl": null,
+    "isDifferentGeo": false,
+    "parentGeoName": "Tel Aviv",
+    "distanceTo": null,
+    "awardInfo": null,
+    "isLocalChefItem": false,
+    "isPremium": false,
+    "isStoryboardPublished": false,
+    "establishmentTypeAndCuisineTags": [
+      "Israeli"
+    ],
+    "offers": {
+      "hasDelivery": null,
+      "hasReservation": null,
+      "slot1Offer": null,
+      "slot2Offer": null,
+      "restaurantSpecialOffer": null
+    },
+    "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/c2/d7/ff/ocd-restaurant.jpg?w=2000&h=2000&s=1",
+    "heroImgRawHeight": 2048,
+    "heroImgRawWidth": 2048,
+    "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/c2/d7/ff/ocd-restaurant.jpg?w=200&h=200&s=1",
+    "squareImgRawLength": 0,
+    "thumbnail": {
+      "photo": {
+        "photoSizeDynamic": {
+          "maxHeight": 2048,
+          "maxWidth": 2048,
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/c2/d7/ff/ocd-restaurant.jpg?w={width}&h={height}&s=1"
+        }
+      }
+    },
+    "reviewSnippets": {
+      "reviewSnippetsList": [
+        {
+          "reviewText": "Still, I left OCD fully satisfied. This was by far the culinary highlight of my...",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d10027760-r741160912-OCD_Restaurant-Tel_Aviv_Tel_Aviv_District.html"
+        },
+        {
+          "reviewText": "Precision and Passion",
+          "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293984-d10027760-r900658525-OCD_Restaurant-Tel_Aviv_Tel_Aviv_District.html"
+        }
+      ]
+    }
+  }
+]
