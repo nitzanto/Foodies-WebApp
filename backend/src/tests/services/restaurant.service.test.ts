@@ -1,26 +1,20 @@
-import mongoose, { connect } from 'mongoose';
-import TripAdvisorService from '../../services/tripadvisorAPI.service';
+import mongoose from 'mongoose';
 import {createRestaurant, 
         getRestaurantByName,
-        getRestaurantByCity,
-        getRestaurantByRating,
-        updateRestaurantByCuisine,
-        updateRestaurantByHours,
-        updateRestaurantByRating,
-        updateRestaurantByReviews,
+        getRestaurantsByCity,
+        getRestaurantsByRating,
+        updateRestaurantCuisine,
+        updateRestaurantHours,
+        updateRestaurantRating,
+        updateRestaurantReviews,
         deleteRestaurant
        } from '../../services/restaurant.service';
-import fs from 'fs';
-import path from 'path';
-import axios from 'axios';
-import request from 'supertest';
 import connectToDatabase from '../../utils/dbConfig';
 import  RestaurantModel, { IRestaurant } from '../../models/Restaurant';
 import Restaurant from '../../interfaces/Restaurant';
 
 
 const testRestaurant: Restaurant = {
-    // _id: '12345',
     name: 'Restaurant1',
     address: 'HaMerkava 4',
     city: 'Tel Aviv',
@@ -33,7 +27,6 @@ const testRestaurant: Restaurant = {
 } as const;
 
 const testRestaurant2: Restaurant = {
-    // _id: '12346',
     name: 'Restaurant2',
     address: 'HaTank 5',
     city: 'Tel Aviv',
@@ -58,7 +51,7 @@ const assertRestaurant = (newRestaurant: IRestaurant | null, expectedRestaurant:
     expect(newRestaurant).toHaveProperty('cuisine', expectedRestaurant.cuisine);
     expect(newRestaurant).toHaveProperty('reviews', expectedRestaurant.reviews);
     expect(newRestaurant).toHaveProperty('openingHours', expectedRestaurant.openingHours);
-}
+};
 
 
 describe('Restaurant Service', () => {
@@ -124,7 +117,7 @@ describe('Restaurant Service', () => {
         test('should return restaurant by city', async () =>{
             await createRestaurant(testRestaurant);
             await createRestaurant(testRestaurant2);
-            const restaurantByCity: IRestaurant[] = await getRestaurantByCity(testRestaurant.city);
+            const restaurantByCity: IRestaurant[] = await getRestaurantsByCity(testRestaurant.city);
             expect(restaurantByCity).toBeDefined();
             expect(restaurantByCity).toHaveLength(2);
             assertRestaurants(restaurantByCity, [testRestaurant, testRestaurant2]);
@@ -133,13 +126,13 @@ describe('Restaurant Service', () => {
         test('should return restaurant by rating above 4.3', async () =>{
             await createRestaurant(testRestaurant);
             await createRestaurant(testRestaurant2);
-            const restaurantByRating: IRestaurant[] = await getRestaurantByRating(2.4);
-            expect(restaurantByRating).toBeDefined();
-            expect(restaurantByRating).toHaveLength(2);
-            expect(restaurantByRating[0]).toHaveProperty('averageRating', 2.5);
-            expect(restaurantByRating[1]).toHaveProperty('averageRating', 4.7);
-            assertRestaurant(restaurantByRating[0], testRestaurant);
-            assertRestaurant(restaurantByRating[1], testRestaurant2);
+            const restaurantsByRating: IRestaurant[] = await getRestaurantsByRating(2.4);
+            expect(restaurantsByRating).toBeDefined();
+            expect(restaurantsByRating).toHaveLength(2);
+            expect(restaurantsByRating[0]).toHaveProperty('averageRating', 2.5);
+            expect(restaurantsByRating[1]).toHaveProperty('averageRating', 4.7);
+            assertRestaurant(restaurantsByRating[0], testRestaurant);
+            assertRestaurant(restaurantsByRating[1], testRestaurant2);
         });
 
         test('should return null if restaurant is not found', async () => {
@@ -154,7 +147,7 @@ describe('Restaurant Service', () => {
     describe('Update Restaurant (U)', () => {
         test('should update restaurant rating', async () => {
             const newRestaurant = await createRestaurant(testRestaurant);
-            const updatedRestaurant = await updateRestaurantByRating(newRestaurant.name, 4.5);
+            const updatedRestaurant = await updateRestaurantRating(newRestaurant.name, 4.5);
             expect(updatedRestaurant).toBeDefined();
             expect(updatedRestaurant).toHaveProperty('name', newRestaurant.name);
             expect(updatedRestaurant).toHaveProperty('averageRating', 4.5);
@@ -162,7 +155,7 @@ describe('Restaurant Service', () => {
 
         test('should update restaurant cuisine', async () => {
             const newRestaurant = await createRestaurant(testRestaurant);
-            const updatedRestaurant = await updateRestaurantByCuisine(newRestaurant.name, ['Italian', 'Mexican', 'Japanese']);
+            const updatedRestaurant = await updateRestaurantCuisine(newRestaurant.name, ['Italian', 'Mexican', 'Japanese']);
             expect(updatedRestaurant).toBeDefined();
             expect(updatedRestaurant).toHaveProperty('name', newRestaurant.name);
             expect(updatedRestaurant).toHaveProperty('cuisine', ['Italian', 'Mexican', 'Japanese']);
@@ -170,7 +163,7 @@ describe('Restaurant Service', () => {
 
         test('should update restaurant hours', async () => {
             const newRestaurant = await createRestaurant(testRestaurant);
-            const updatedRestaurant = await updateRestaurantByHours(newRestaurant.name, '08:00 - 19:00');
+            const updatedRestaurant = await updateRestaurantHours(newRestaurant.name, '08:00 - 19:00');
             expect(updatedRestaurant).toBeDefined();
             expect(updatedRestaurant).toHaveProperty('name', newRestaurant.name);
             expect(updatedRestaurant).toHaveProperty('openingHours', '08:00 - 19:00');
@@ -178,7 +171,7 @@ describe('Restaurant Service', () => {
 
         test('should update restaurant reviews', async () => {
             const newRestaurant = await createRestaurant(testRestaurant);
-            const updatedRestaurant = await updateRestaurantByReviews(newRestaurant.name, ['tasty', 'nice', 'Bazinga']);
+            const updatedRestaurant = await updateRestaurantReviews(newRestaurant.name, ['tasty', 'nice', 'Bazinga']);
             expect(updatedRestaurant).toBeDefined();
             expect(updatedRestaurant).toHaveProperty('name', newRestaurant.name);
             expect(updatedRestaurant).toHaveProperty('reviews', ['tasty', 'nice', 'Bazinga']);
