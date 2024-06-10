@@ -1,6 +1,5 @@
 import RestaurantModel, { IRestaurant } from "../models/Restaurant";
 import logger from "../utils/logger";
-import mongoose from "mongoose";
 import Restaurant from '../interfaces/Restaurant';
 import { errorMessages } from '../utils/constants';
 
@@ -34,6 +33,7 @@ export const getRestaurantByName = async (name: string) => {
     const restaurant = await RestaurantModel.findOne({
       name: name,
     });
+    logger.info(`Restaurant by name ${name}: ${restaurant}`);
     return restaurant;
   } catch (error: any) {
     logger.error(`Error getting restaurant by name: ${error.message}`);
@@ -41,11 +41,12 @@ export const getRestaurantByName = async (name: string) => {
   }
 };
 
-export const getRestaurantByCity = async (city: string) => {
+export const getRestaurantsByCity = async (city: string) => {
   try {
     const restaurant = await RestaurantModel.find({
       city: city,
     });
+    logger.info(`Restaurants in ${city}: ${restaurant}`);
     return restaurant;
   } catch (error: any) {
     logger.error(`Error getting restaurant by city: ${error.message}`);
@@ -53,11 +54,12 @@ export const getRestaurantByCity = async (city: string) => {
   }
 };
 
-export const getRestaurantByRating = async (rating: number) => {
+export const getRestaurantsByRating = async (rating: number) => {
   try {
     const restaurant = await RestaurantModel.find({
       averageRating: {$gte: rating},
     });
+    logger.info(`Restaurants with rating above ${rating}: ${restaurant}`);
     return restaurant;
   } catch (error: any) {
     logger.error(`Error getting restaurant by rating: ${error.message}`);
@@ -65,13 +67,14 @@ export const getRestaurantByRating = async (rating: number) => {
   }
 };
 
-export const updateRestaurantByCuisine = async (name: string, cuisine: string[]) => {
+export const updateRestaurantCuisine = async (name: string, cuisine: string[]) => {
   try {
     const updatedRestaurant = await RestaurantModel.findOneAndUpdate(
       { name: name },
       { cuisine: cuisine },
       { new: true }
     );
+    logger.info(`Updated restaurant: ${updatedRestaurant}, cuisine ${cuisine}`);
     return updatedRestaurant;
   } catch (error: any) {
     logger.error(`Error updating restaurant by cuisine: ${error.message}`);
@@ -79,13 +82,14 @@ export const updateRestaurantByCuisine = async (name: string, cuisine: string[])
   }
 };
 
-export const updateRestaurantByHours = async (name: string, hours: string) => {
+export const updateRestaurantHours = async (name: string, hours: string) => {
   try {
     const updatedRestaurant = await RestaurantModel.findOneAndUpdate(
       { name: name },
       { openingHours: hours },
       { new: true }
     );
+    logger.info(`Updated restaurant: ${updatedRestaurant}, hours ${hours}`);
     return updatedRestaurant;
   } catch (error: any) {
     logger.error(`Error updating restaurant by hours: ${error.message}`);
@@ -93,13 +97,14 @@ export const updateRestaurantByHours = async (name: string, hours: string) => {
   }
 };
 
-export const updateRestaurantByRating = async (name: string, rating: number) => {
+export const updateRestaurantRating = async (name: string, rating: number) => {
   try {
     const updatedRestaurant = await RestaurantModel.findOneAndUpdate(
       { name: name },
       { averageRating: rating },
       { new: true }
     );
+    logger.info(`Updated restaurant: ${updatedRestaurant}, rating ${rating}`);
     return updatedRestaurant;
   } catch (error: any) {
     logger.error(`Error updating restaurant by rating: ${error.message}`);
@@ -107,13 +112,14 @@ export const updateRestaurantByRating = async (name: string, rating: number) => 
   }
 }
 
-export const updateRestaurantByReviews = async (name: string, reviews: string[]) => {
+export const updateRestaurantReviews = async (name: string, reviews: string[]) => {
   try {
     const updatedRestaurant = await RestaurantModel.findOneAndUpdate(
       { name: name },
       { reviews: reviews },
       { new: true }
     );
+    logger.info(`Updated restaurant: ${updatedRestaurant}, reviews ${reviews}`);
     return updatedRestaurant;
   } catch (error: any) {
     logger.error(`Error updating restaurant by reviews: ${error.message}`);
@@ -126,21 +132,10 @@ export const deleteRestaurant = async (identifier: string): Promise<IRestaurant 
     const deletedRestaurant = await RestaurantModel.findOneAndDelete({
       $or: [{name: identifier}],
     });
-    // logger.info(`Deleted Restaurant: ${deletedRestaurant}`);
+    logger.info(`Deleted Restaurant: ${deletedRestaurant}`);
     return deletedRestaurant;
   } catch (error){
     logger.error(`Error Deleteing restaurant by name or id: ${error}`);
     throw new Error(errorMessages.ERROR_DELETING_RESTAURANT);
   }
 }
-
-export default {createRestaurant, 
-  getRestaurantByName,
-  getRestaurantByCity,
-  getRestaurantByRating,
-  updateRestaurantByCuisine,
-  updateRestaurantByHours,
-  updateRestaurantByRating,
-  updateRestaurantByReviews,
-  deleteRestaurant
-};
