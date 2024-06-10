@@ -15,7 +15,7 @@ const options = {
       }
 };
 
-const fetchReviews = async () => {
+export const fetchReviews = async () => {
     try{
         const response = await axios.request(options);
         fs.writeFileSync(reviewsFilePath, JSON.stringify(response.data.data.data, null, 2));
@@ -25,9 +25,7 @@ const fetchReviews = async () => {
     }
 }
 
-const parseReviews = () => {
+export const parseReviews = () => {
     const reviews = fs.readFileSync(reviewsFilePath, 'utf-8');
     return JSON.parse(reviews);
 }
-
-export default { fetchReviews, parseReviews };

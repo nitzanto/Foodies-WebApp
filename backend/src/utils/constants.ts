@@ -27,15 +27,15 @@ export const errorMessages = {
   ERROR_DELETING_RESTAURANT: 'Error deleting Restaurant by name',
 
   FAILED_TO_CREATE_POST: 'Failed to create Post',
-  FAILED_TO_GET_POST: 'Failed to get Post',
+  NOT_FOUND_POST_RESTAURANT_ID: 'Error getting Post by restaurantId',
+  NOT_FOUND_POST_USER_NAME: 'Error getting Post by userName',
+  NOT_FOUND_POST_TITLE: 'Error getting Post by title',
+  NOT_FOUND_POST_RATING: 'Error getting Post by rating',
   FAILED_TO_UPDATE_POST: 'Failed to update Post',
   FAILED_TO_DELETE_POST: 'Failed to delete Post',
   POST_NOT_FOUND: 'Post not found',
   POST_ALREADY_EXISTS: 'Post already exists',
 
-  NOT_FOUND_POST_RESTAURANT_ID: 'Error getting Post by restaurantId',
-  NOT_FOUND_POST_USER_NAME: 'Error getting Post by userName',
-  NOT_FOUND_POST_TITLE: 'Error getting Post by title',
 
   FAILED_TO_CREATE_COMMENT: 'Failed to create Comment',
   FAILED_TO_GET_COMMENT: 'Failed to get Comment',
