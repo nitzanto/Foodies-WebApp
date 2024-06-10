@@ -15,6 +15,9 @@ export const errorMessages = {
   UNAUTHORIZED: 'User is not authorized to perform this action',
 
   FAILED_TO_CREATE_RESTAURANT: 'Failed to create Restaurant',
+  FAILED_TO_GET_RESTAURANT: 'Failed to get Restaurant',
+  FAILED_TO_UPDATE_RESTAURANT: 'Failed to update Restaurant',
+  FAILED_TO_DELETE_RESTAURANT: 'Failed to delete Restaurant',
   RESTAURANT_NOT_FOUND: 'Restaurant not found',
   RESTAURANT_ALREADY_EXISTS: 'Restaurant already exists',
 
@@ -22,4 +25,24 @@ export const errorMessages = {
   NOT_FOUND_RESTAURANT_CITY: 'Error getting Restaurant by city',
   NOT_FOUND_RESTAURANT_RATING: 'Error getting Restaurant by rating',
   ERROR_DELETING_RESTAURANT: 'Error deleting Restaurant by name',
+
+  FAILED_TO_CREATE_POST: 'Failed to create Post',
+  FAILED_TO_GET_POST: 'Failed to get Post',
+  FAILED_TO_UPDATE_POST: 'Failed to update Post',
+  FAILED_TO_DELETE_POST: 'Failed to delete Post',
+  POST_NOT_FOUND: 'Post not found',
+  POST_ALREADY_EXISTS: 'Post already exists',
+
+  NOT_FOUND_POST_RESTAURANT_ID: 'Error getting Post by restaurantId',
+  NOT_FOUND_POST_USER_NAME: 'Error getting Post by userName',
+  NOT_FOUND_POST_TITLE: 'Error getting Post by title',
+
+  FAILED_TO_CREATE_COMMENT: 'Failed to create Comment',
+  FAILED_TO_GET_COMMENT: 'Failed to get Comment',
+  FAILED_TO_UPDATE_COMMENT: 'Failed to update Comment',
+  FAILED_TO_DELETE_COMMENT: 'Failed to delete Comment',
+  COMMENT_NOT_FOUND: 'Comment not found',
+  COMMENT_ALREADY_EXISTS: 'Comment already exists',
+  NOT_FOUND_COMMENT_USER_NAME: 'Error getting Comment by userName',
+  NOT_FOUND_COMMENT_POST_ID: 'Error getting Comment by postId',
 };

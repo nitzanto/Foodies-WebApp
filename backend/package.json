@@ -6,8 +6,9 @@
   "scripts": {
     "dev": "nodemon src/server.ts",
     "test": "jest",
-    "testRes": "tsc && jest --forceExit --detectOpenHandles ./src/tests/services/restaurant.service.test.ts",
     "testUser": "tsc && jest --forceExit --detectOpenHandles ./src/tests/services/user.service.test.ts",
+    "testRes": "tsc && jest --forceExit --detectOpenHandles ./src/tests/services/restaurant.service.test.ts",
+    "testPost": "tsc && jest --forceExit --detectOpenHandles ./src/tests/services/post.service.test.ts",
     "testAuth": "tsc && jest --forceExit --detectOpenHandles ./src/tests/controllers/auth.controller.test.ts",
     "build": "tsc --project ."
   },
